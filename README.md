@@ -28,7 +28,7 @@ This repository contains the following contents:
     - [viz_utiles.py](./train_by_reconnect/viz_utils.py)
         - `Profiler`: Plot weight profiles for a given model. (Section 2)
         - `PermutationTracer`: Visualize and trace how the locations of weights has changed.       
-- **notebooks**: [Jupyter-notebooks](https://jupyter.org/) containing the model definitions and experiment configurations for reconducting or extending the experiments (training + evaluation). Detailed instructions can be found inside the notebooks.
+- **notebooks**: [Jupyter-notebooks](./notebooks) containing the model definitions and experiment configurations for reconducting or extending the experiments (training + evaluation). Detailed instructions can be found inside the notebooks.
     - [`Conv2.ipynb`](./notebooks/Conv2.ipynb), [`Conv4.ipynb`](./notebooks/Conv4.ipynb), [`Conv13.ipynb`](./notebooks/Conv13.ipynb), [`Conv7.ipynb`](./notebooks/Conv7.ipynb), [`ResNet50.ipynb`]((./notebooks/ResNet50.ipynb)): For experiments mentioned in Section 5.1~5.4.
     - [`F1_and_F2.ipynb`](./notebooks/F1_and_F2.ipynb): For experiments mentioned in Section 5.5.
     - [`Weight_profiles.ipynb`](./notebooks/Weight_profiles.ipynb): For visualizations mentioned in Section 2.
