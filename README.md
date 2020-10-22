@@ -70,7 +70,7 @@ All material related to our paper is available via the following links:
 
 | Resources                    | Link
 | :--------------           | :----------
-| Paper PDF | [Link ArXiv](https://arxiv.org/abs/2003.02570) 
+| Paper PDF | TBA
 | Project page | TBA
 | Notebooks to reproduce experiments | [Link Notebooks](./notebooks)
 | Source code | [Link Github](https://github.com/ihsuy/Train-by-Reconnect)
