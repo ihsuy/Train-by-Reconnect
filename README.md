@@ -39,7 +39,7 @@ This repository contains the following contents:
     | [Conv2](./pretrained/Conv2.h5)      | 78.21%| 0%   | 1000| CIFAR-10|5.2, 5.4 | He Uniform  |
     | [Conv4](./pretrained/Conv4.h5)      | 89.17%| 0%   | 1000| CIFAR-10|5.2, 5.4 | He Uniform  |
     | [Conv13](./pretrained/Conv13.h5)     | 92.21%| 0%   | 1000| CIFAR-10|5.2, 5.4 | He Uniform  |
-    | [ResNet50](./pretrained/resnet50_0.h5)   | 92.53%| 0%   |  400| CIFAR-10|     5.4 | He Uniform  |
+    | [ResNet50](./pretrained/resnet50.h5)   | 92.53%| 0%   |  400| CIFAR-10|     5.4 | He Uniform  |
     | [ResNet50](./pretrained/resnet50_30.h5)   | 92.32%| 30%  |  800| CIFAR-10|     5.4 | He Uniform  |
     | [ResNet50](./pretrained/resnet50_50.h5)   | 92.02%| 50%  |  800| CIFAR-10|     5.4 | He Uniform  |
     | [ResNet50](./pretrained/resnet50_70.h5)   | 90.97%| 70%  |  800| CIFAR-10|     5.4 | He Uniform  |
