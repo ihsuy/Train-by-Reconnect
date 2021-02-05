@@ -1,6 +1,6 @@
 ## Train by Reconnect: Decoupling Locations of Weights from Their Values
 
-This repository contains the code for the NeurIPS 2020 paper *Train by Reconnect: Decoupling Locations of Weights from Their Values* by Yushi Qiu and Reiji Suda.
+This repository contains the official code for the NeurIPS 2020 paper *Train by Reconnect: Decoupling Locations of Weights from Their Values* by Yushi Qiu and Reiji Suda.
 
 <p align="left" style="float: left;">
   <img src="https://github.com/ihsuy/Train-by-Reconnect/blob/main/Images/perm4.gif?raw=true" height="230">
