@@ -81,7 +81,7 @@ All material related to our paper is available via the following links:
 | Source code | [Link Github](https://github.com/ihsuy/Train-by-Reconnect)
 | Summary video | TBA
 | Presentation slides | TBA
-| Poster | TBA
+| Poster | [Link](https://github.com/ihsuy/Train-by-Reconnect/blob/main/NeurIPS%20Poster.pdf)
 
 ---
 ## License
